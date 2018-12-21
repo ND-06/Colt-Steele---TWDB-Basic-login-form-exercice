@@ -1,0 +1,47 @@
+body {
+  background-color: #00d1b2;
+  font-family: helvetica, sans-serif;
+}
+.submit-button {
+  background-color: #00d1b2;
+  border-radius: 4px;
+  color: white;
+  font-size: 1.15em;
+}
+
+.Maintitle {
+  color: white;
+  font-weight: bold;
+  text-align: center;
+  font-size: 2em;
+}
+
+.form-box {
+  background-color: white;
+  padding: 50px 10px;
+  margin: -7px -7px;
+  text-align: center;
+  width: 100%;  
+}
+
+.agreed-box {
+  margin-top: 10px;
+  padding-bottom: 10px;
+}
+
+.birthday-box {
+  margin-top: 15px;
+}
+
+.credentials {
+  margin-top: 10px;
+  padding-bottom: 5px;
+}
+
+.gender {
+  margin-top: 15px;
+}
+
+.github-link {
+  margin-bottom: -15px;
+}
