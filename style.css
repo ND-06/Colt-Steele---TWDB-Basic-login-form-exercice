@@ -1,19 +1,26 @@
 body {
   font-family: Montserrat, sans-serif;
-  background: #2C3E50;  /* fallback for old browsers */
-  background: -webkit-linear-gradient(to right, #4CA1AF, #2C3E50);  /* Chrome 10-25, Safari 5.1-6 */
-  background: linear-gradient(to right, #4CA1AF, #2C3E50); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+  background: #2c3e50;  /* fallback for old browsers */
+  background: -webkit-linear-gradient(to right, #3498db, #2c3e50);  /* Chrome 10-25, Safari 5.1-6 */
+  background: linear-gradient(to right, #3498db, #2c3e50); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+
 
   }
 
+.submit {
+  margin-top: 17px;
+}
+
+
 .submit-button {
-  background: #2C3E50;  /* fallback for old browsers */
-  background: -webkit-linear-gradient(to right, #4CA1AF, #2C3E50);  /* Chrome 10-25, Safari 5.1-6 */
-  background: linear-gradient(to right, #4CA1AF, #2C3E50); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+  background: #2c3e50;  /* fallback for old browsers */
+  background: -webkit-linear-gradient(to right, #3498db, #2c3e50);  /* Chrome 10-25, Safari 5.1-6 */
+  background: linear-gradient(to right, #3498db, #2c3e50); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
   border-radius: 5px;
   color: white;
   font-weight: bold;
   font-size: 1.10em;
+  border-color: white;
 }
 
 .Maintitle {
@@ -49,20 +56,7 @@ body {
   margin-top: 15px;
 }
 
-.github-link {
-  margin-bottom: -15px;
-  color: white;
-}
-
 label {
   font-weight: bold;
-  color: white;
-}
-
-a:link {
-  color: white;
-}
-
-a:visited {
   color: white;
 }
